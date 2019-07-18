@@ -1,0 +1,7 @@
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\bin\Debug\DiceGenerator.exe.config
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\bin\Debug\DiceGenerator.exe
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\bin\Debug\DiceGenerator.pdb
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\obj\Debug\DiceGenerator.csprojAssemblyReference.cache
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\obj\Debug\DiceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\obj\Debug\DiceGenerator.exe
+C:\Users\JoshB\OneDrive\DiceGenerator\DiceGenerator\obj\Debug\DiceGenerator.pdb
